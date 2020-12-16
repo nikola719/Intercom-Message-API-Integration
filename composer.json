@@ -1,0 +1,14 @@
+{
+    "name": "void/intercom-ceban",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nikola",
+            "email": "nkjanko776@gmail.com"
+        }
+    ],
+    "require": {
+        "intercom/intercom-php": "^4.4",
+        "php-http/guzzle6-adapter": "^2.0"
+    }
+}
